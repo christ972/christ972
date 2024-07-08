@@ -19,5 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=christ972&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=christ972&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=christ972&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)-->
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-brightgreen)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
